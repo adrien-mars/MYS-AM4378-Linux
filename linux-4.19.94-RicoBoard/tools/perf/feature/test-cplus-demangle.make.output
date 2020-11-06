@@ -1,0 +1,2 @@
+/home/adrien/ti-processor-sdk-linux-am437x-evm-06.03.00.106/linux-devkit/sysroots/x86_64-arago-linux/usr/bin/../lib/gcc/arm-linux-gnueabihf/8.3.0/../../../../arm-linux-gnueabihf/bin/ld: cannot find -liberty
+collect2: error: ld returned 1 exit status
